@@ -1,0 +1,10 @@
+{
+  "featureX": {
+    "enabled": true,
+    "description": "Enables new checkout flow"
+  },
+  "featureY": {
+    "enabled": false,
+    "description": "Deprecated recommendation system"
+  }
+}
